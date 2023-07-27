@@ -1,4 +1,4 @@
-# admins
+# vue3+ts+scss
 
 ## Project setup
 ```
