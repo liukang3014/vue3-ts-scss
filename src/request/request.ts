@@ -3,7 +3,7 @@ import axios, { AxiosInstance, AxiosRequestConfig, AxiosResponse } from 'axios';
 
 // 创建一个自定义的 Axios 实例
 const instance: AxiosInstance = axios.create({
-  baseURL: 'https://server.lingyun-ai.com', // 设置基本的 API 地址
+  baseURL: 'https://--/', // 设置基本的 API 地址
   timeout: 10000, // 设置请求超时时间
 });
 
