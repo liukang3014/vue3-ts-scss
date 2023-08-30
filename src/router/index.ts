@@ -11,7 +11,6 @@ const routes: Array<RouteRecordRaw> = [
     //     component:()=>import("../App.vue")
     //   }
     // ]
-    
   },
   {
     path: '/about',
