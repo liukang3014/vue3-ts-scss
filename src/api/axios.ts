@@ -11,7 +11,7 @@ const config: AxiosRequestConfig = {
 };
 
 // 调用 request 函数发送请求
-request<Point>(config) // 将 MyResponseType 替换为你的响应类型
+request<Point>(config) 
   .then((data) => {
     console.log('res:', data);
   })
